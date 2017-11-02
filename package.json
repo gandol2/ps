@@ -1,11 +1,11 @@
 {
-  "name": "ps-node",
-  "version": "0.1.6",
-  "description": "A process lookup utility",
+  "name": "ps-node-ext",
+  "version": "0.0.1",
+  "description": "A process lookup utility dodified by gandol2(The original is of neekey)",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/neekey/ps.git"
+    "url": "git://github.com/gandol2/ps.git"
   },
   "scripts": {
     "test": "node ./node_modules/mocha/bin/mocha -t 0 -R spec test/test.js",
